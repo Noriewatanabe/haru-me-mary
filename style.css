@@ -474,9 +474,9 @@ iframe {
       }
      
       /* NEWS */
-     .newsInfoText {
-           flex-direction: column;
-      }
+     .news-content {
+            flex-direction: column;
+     }
       article,
       aside {  
            width: 80%;
