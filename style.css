@@ -136,7 +136,6 @@ img {
       font-size: 1.3rem;
 }
 .article img {
-     max-width: 90px;
      object-fit: cover; 
 }
 .newsInfoText aside {
