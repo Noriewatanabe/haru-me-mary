@@ -479,8 +479,8 @@ iframe {
      .news-content {
             flex-direction: column;
      }
-     .article,
-     .aside {  
+     article,
+     aside {  
            width: 80%;
            margin-left: 10%;
            margin-right: 10%;
