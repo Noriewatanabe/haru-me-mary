@@ -477,12 +477,11 @@ iframe {
      
       /* NEWS */
      .news-content {
-            flex-direction: column;
-            margin: 0 auto;
+            flex-direction: column;        
      }
      article,
      aside {  
-           width: 80%;
+           margin: 0 auto;
       }  
      .news-content p {
            font-size: 1rem;
