@@ -482,8 +482,9 @@ iframe {
      }
      article,
      aside {
-            width: 100%;
-            pading: 0 5px 0 5px;
+           width: 80%;
+           margin-left: 10%;
+           margin-right: 10%;
      }
      .news-content p {
            font-size: 1rem;
