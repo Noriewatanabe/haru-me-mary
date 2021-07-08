@@ -477,7 +477,8 @@ iframe {
      
       /* NEWS */
      .newsInfoText {
-            flex-direction: column;    
+            flex-direction: column; 
+            align-items: column;
      }
      article,
      aside {
