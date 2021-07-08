@@ -477,6 +477,10 @@ iframe {
      .newsInfoText {
             flex-direction: column;        
      }
+     article,
+     aside {
+            width: 80%;
+     }
      .news-content p {
            font-size: 1rem;
      }
