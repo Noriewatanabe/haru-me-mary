@@ -112,7 +112,7 @@ img {
      margin: 0% 0;
 }
 .newsInfoText {
-      display: grid;
+      display: flex;
       justify-content: space-between;
       grid-template-columns: 1fr 1fr;
       gap: 50px;
