@@ -483,6 +483,7 @@ iframe {
      article,
      aside {
             width: 100%;
+            pading: 0 5px 0 5px;
      }
      .news-content p {
            font-size: 1rem;
