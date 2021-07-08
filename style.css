@@ -116,7 +116,7 @@ img {
       justify-content: space-between;
       grid-template-columns: 1fr 1fr;
       gap: 50px;
-      padding: 0px 50px 0px 0px;
+      padding: 0px 0px 0px 50px;
 }
 .newsInfoText article {
       object-fit: cover;
@@ -477,11 +477,11 @@ iframe {
      
       /* NEWS */
      .newsInfoText {
-            flex-direction: column;        
+            flex-direction: column;    
      }
      article,
      aside {
-            width: 80%;
+            width: 90%;
      }
      .news-content p {
            font-size: 1rem;
