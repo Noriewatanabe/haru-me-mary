@@ -479,6 +479,7 @@ iframe {
      .newsInfoText {
             flex-direction: column; 
             align-items: center;
+            padding-left: 0px;
      }
      .newsInfoText article,
      .newsInfoText aside {
