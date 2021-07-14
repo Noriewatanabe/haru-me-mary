@@ -479,12 +479,13 @@ iframe {
      .newsInfoText {
             flex-direction: column; 
             align-items: center;
+            padding: 0px;
      }
      .article,
      .aside {
            width: 80%;
-           margin-left: 0%;
-           margin-right: 5%;
+           margin-left: 4%;
+           margin-right: 4%;
      }
      .news-content p {
            font-size: 1rem;
