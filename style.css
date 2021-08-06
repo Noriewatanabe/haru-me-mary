@@ -156,21 +156,12 @@ img {
       text-align: center;
       font-size: 1.3rem;
 }
-.NewsListItem {
-      position: relative;
-      padding-top: 4px;
-      margin-bottom: 40px;
-      border-bottom: dotted;
-      font-size: 1rem;
-      text-align: left;
-      list-style-type: none;
+.newsInfoText h5 {
+      text-align: center;
+      font-size: 1.3rem;
 }
-
-.NewsListItem h2 {
-      font-size: 1.15rem;
-}
-.NewsListItem h2:hover {
-      color: #c5b2d6;
+.aside img {
+     object-fit: cover; 
 }
 
 /* フッター
