@@ -161,7 +161,11 @@ img {
       font-size: 1.3rem;
 }
 .aside img {
-     object-fit: 50%; 
+     object-fit: cover; 
+     border: 1px solid #111120;
+      outline: 2px solid #111120;
+      outline-offset:  4px;
+      border-radius: 6px;
 }
 
 /* フッター
