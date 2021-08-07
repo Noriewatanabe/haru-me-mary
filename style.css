@@ -161,7 +161,7 @@ img {
       font-size: 1.3rem;
 }
 .aside img {
-     object-fit: cover; 
+     object-fit: 50%; 
 }
 
 /* フッター
