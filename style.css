@@ -161,6 +161,8 @@ img {
       font-size: 1.3rem;
 }
 .aside img {
+     wide: 50%;
+     height: 260px;
      object-fit: cover; 
      border-radius: 10px 10px 10px 10px;
 }
